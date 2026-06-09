@@ -15,7 +15,8 @@ An interactive Excel dashboard designed to analyze grocery sales, consumer prefe
 * **Category Breakdown:** A ranked horizontal bar chart tracking top-selling items, led by Fruits & Vegetables ($178.1K) and Snack Foods ($175.4K).
 * **Growth Trends:** Historical timeline area chart illustrating outlet establishment sales growth from 2011 to 2022 (peaking in 2018 at $204.5K).
 
-![Blinkit Dashboard](Screenshot 2026-04-12 084503.png)
+![Blinkit Dashboard](Screenshot_2026-04-12_084503.png)
+
 
 ## 🛠️ Tools Used
 * **Microsoft Excel:** Advanced Data Modeling, Pivot Tables, Power Query, Slicers, and Custom Charting / UI Design.
